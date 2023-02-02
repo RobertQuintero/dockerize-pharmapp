@@ -1,0 +1,13 @@
+!docker/volumes/mysql
+docker/volumes/mysql/*
+!docker/volumes/mysql/.gitkeep
+
+!docker/volumes/redis
+docker/volumes/redis/*
+!docker/volumes/redis/.gitkeep
+
+.DS_Store
+.idea
+
+
+src/
