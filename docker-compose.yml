@@ -20,6 +20,7 @@ services:
       - ./src/PharmApp:/var/www
     ports:
       - "8080:80"
+      - "8089:443"
   # Database
   database:
     container_name: mysql

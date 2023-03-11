@@ -11,3 +11,6 @@ docker/volumes/redis/*
 
 
 src/
+docker/services/web/pharmapp.robertquintero.me.pem
+docker/services/web/pharmapp.robertquintero.me.key
+docker/services/web/private.key
