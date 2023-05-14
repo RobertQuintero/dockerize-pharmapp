@@ -12,7 +12,7 @@
 
 </div>
 
-![PharmApp Mobile Demo](./readme-images/PharmApp.svg "PharmApp Demo")
+<img src="./readme-images/PharmApp.svg " alt="PharmApp Logo" width="100%" height="auto">
 
 
 <!-- https://mattkomarnicki.com/articles/docker-laravel-environment-with-php-nginx-mysql-redis-and-scheduler
