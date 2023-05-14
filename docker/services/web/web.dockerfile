@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:latest
 
 # RUN mkdir /etc/nginx/ssl
 COPY vhost.conf /etc/nginx/conf.d/default.conf
